@@ -3,15 +3,13 @@ title: "레이키 실천자 에너지 흐름의 수호자"
 description: ""
 coverImage: "/assets/img/2024-05-15-ReikiPractitionersTheStewardsofEnergyFlow_0.png"
 date: 2024-05-15 14:02
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-15-ReikiPractitionersTheStewardsofEnergyFlow_0.png
 tag: Tech
 originalTitle: "Reiki Practitioners: The Stewards of Energy Flow"
 link: "https://medium.com/@suecrielaard_49835/energetic-awakening-unveiling-the-mastery-of-reiki-in-body-and-spirit-5777d9285436"
 ---
 
-
-```markdown
 ![Reiki Practitioners - The Stewards of Energy Flow](/assets/img/2024-05-15-ReikiPractitionersTheStewardsofEnergyFlow_0.png)
 
 In my Reiki world, life is Energy. Everything is about how energy flows in the body and the aura.
@@ -19,9 +17,6 @@ In my Reiki world, life is Energy. Everything is about how energy flows in the b
 When I teach Reiki, students not only learn about Energy Management and the Energy System, but also how these practices can bring about tangible improvements in their lives.
 
 ## When you are attuned to Reiki, you begin to understand how energy flows quickly and a million reasons that energy can get backed up, stop the flow, or do wonky things like spin backward or side to side.
-```
-
-
 
 Reiki 마스터들과 실천가들은 단순히 에너지 기술자뿐만 아니라 에너지 흐름의 촉진자입니다. 우리의 역할은 에너지 역학을 이해하고 에너지를 읽으며 열린 안내 시스템을 활용하여 적절한 시기에 올바른 일을 말하거나 해야 함으로써 에너지 흐름을 '풀어내는' 데 있습니다.
 
@@ -31,8 +26,6 @@ Reiki 마스터들과 실천가들은 단순히 에너지 기술자뿐만 아니
 
 샤크라는 우리의 탑재된 에너지 관리 시스템입니다. 우리는 주요한 7가지 샤크라를 가지고 있지만 수백 가지가 있습니다. 이 외에도 몸 전체를 통해 흐르는 에너지 선인 메리디언(Meridians)이 있습니다. 이것이 바로 신체 전체에 흐르는 에너지 "메리디언"을 따라 이어지는데, 예를 들어 침을 귀에 찔러서 신장에 영향을 줄 수 있는 이유입니다. 침술사들은 신체 전체에서 에너지 흐름을 한 지점에서 다른 지점으로 이동시키기 위해 에너지 "메리디언"을 따라 이동합니다.
 
-
-
 Chakras control or at least represent the different areas of life and love we are involved with. The base one represents our survival and how we feel about things like home, money, family, and our bodies.
 
 As I said, each chakra represents an area, and several books are already on this topic.
@@ -40,8 +33,6 @@ As I said, each chakra represents an area, and several books are already on this
 ## Let’s talk about the Body:
 
 The body is your vehicle for your energetic field. You are more than just your physical body, and I feel like we don’t appreciate it for the beauty it is.
-
-
 
 우리의 생각은 우리 자신을 어떻게 보며 우리 몸으로부터 무엇을 기대하는지에 영향을 미칩니다. "나이를 먹고 있다"고 자주 말하면서 우리 자신이 지속적으로 성장하고 있다는 것을 이해하기보다는 우리가 우리 몸에 내리는 지시와의 중요한 차이가 있습니다.
 
@@ -51,8 +42,6 @@ The body is your vehicle for your energetic field. You are more than just your p
 
 우리가 우리 자신에게 하는 메시지에 주목하는 것이 중요합니다. 몸은 이러한 메시지를 믿고 그에 따라 행동합니다.
 
-
-
 Oftentimes, these belief systems operate at a subconscious level.
 
 These notions can originate from various sources and may lead to difficulties when there is a discrepancy between our desires and our reality.
@@ -60,8 +49,6 @@ These notions can originate from various sources and may lead to difficulties wh
 Instead of facing and addressing their belief systems to mend, evaluate, and enhance them, individuals often choose to ignore or try to make up for what they perceive as lacking.
 
 The challenge lies in the fact that if these beliefs are not identified and examined, individuals may find themselves struggling against their own thoughts. They may firmly hold onto a particular perception of reality, even if it does not benefit them.
-
-
 
 이러한 것들은 신체에 장애물로 나타나며 종종 깊게 뿌리내린 고통으로 나타납니다. 이를 치유하기 위해서는 해당 패턴이 개인의 인식 속에 들어와 풀려야 합니다.
 
@@ -71,8 +58,6 @@ The challenge lies in the fact that if these beliefs are not identified and exam
 
 우리는 몸에게 감사함을 표현하는 빈도가 얼마나 되는지 생각해보았나요? 매일 아침 일어나 몸을 스트레칭하고, 감사의 뜻을 전하며, 하루 내내 사랑으로 대우하는 빈도는 얼마나 되는지요?
 
-
-
 우리 몸이 마음과 우리가 원하는 것과 협력하기를 원한다면 이러한 필수적인 아이디어들이 필요합니다. 우리 시스템에 주의를 기울이고 가장 소중한 소지품들보다 더 잘 대해야만 사랑받고 신성하다고 느낄 수 있습니다. 이를 통해 병으로부터 회복할 수 있습니다.
 
 주변을 둘러보세요. 소지품들을 어떻게 다루는지 살펴보세요. 소중히 다루고 깨끗이 씻고 하나에는 하나씩의 자리가 있나요? 아니면 휙휙 던지거나 난잡하게 쌓여 있고 방치된 상태인가요?
@@ -80,8 +65,6 @@ The challenge lies in the fact that if these beliefs are not identified and exam
 이 아이디어는 여러분의 몸의 감촉을 알려줄 것입니다. 매일 몸의 요구사항을 충족시키고 계신가요? 아니면 몸의 요청을 무시하다 나중에 그 요구에 맞추시나요?
 
 우리 몸에서 나오는 심연한 직감이 있습니다.
-
-
 
 안녕하세요, 타로 카드 전문가 여러분!
 
@@ -93,8 +76,6 @@ The challenge lies in the fact that if these beliefs are not identified and exam
 
 우리는 이 소중한 보물을 몇 시간 동안 방치하는 바람에, 머리나 감정만을 사용하고 있는 경우가 많아요. 몸과 단절돼 있기 때문에 몸이 약해져 병이 되면, 그제야 우리에게 관심을 끌며 울부짖게 되는 거죠. 값진 몸의 신호를 놓치지 말아요!
 
-
-
 생명은 에너지의 리듬을 이끌고 있습니다. 우리 몸 속에서의 미묘한 흐름부터 우리 주변을 에워싸는 넓은 오라까지 에너지가 스며들어 있습니다.
 
 레이키(Reiki) 수행을 통해, 우리는 에너지 관리와 에너지 시스템뿐만 아니라 이러한 수행이 우리 삶에서 현실적인 개선을 어떻게 만드는지를 이해합니다.
@@ -102,8 +83,6 @@ The challenge lies in the fact that if these beliefs are not identified and exam
 레이키 마스터와 수행자로써 우리가 기술자의 역할을 초월하여 에너지 흐름의 관리자가 되는 아이디어를 사랑합니다.
 
 우리의 임무는 사람의 에너지 필드와 직관적으로 현재를 탐색하면서 그 흐름을 조화롭게 하고 유도하는 것입니다. 열린 안내 시스템을 통해 에너지를 조화롭게 하고 그 흐름을 촉진하는 것입니다.
-
-
 
 이해의 핵심은 척라와 미리디언입니다. 이는 몸에 내장된 에너지 관리 시스템과 에너지가 흐르는 통로이며, 몸, 마음, 영적인 상호작용을 직관적으로 이해하는 데 중요합니다.
 
@@ -113,8 +92,6 @@ The challenge lies in the fact that if these beliefs are not identified and exam
 
 우리 몸은 수동적인 방관자가 아니라 우리의 존재에 적극적으로 참여하는 주체입니다. 그것은 움직임, 표현, 기쁨을 열망합니다. 우리가 그 신호에 귀를 기울인다면, 각 순간이 삶을 즐기며 물리적 경험을 맛볼 수 있는 기회임을 인지할 수 있습니다.
 
+\*\*Reiki에서 몸은 발견되기를 기다리는 걸작품이자, 지혜와 활력의 보물창고입니다. Reiki를 배우거나 치료를 받는 것은 여러분이 그 아름다움을 소중히 여기고 기르며 축하할 수 있도록 열어줍니다.
 
-
-**Reiki에서 몸은 발견되기를 기다리는 걸작품이자, 지혜와 활력의 보물창고입니다. Reiki를 배우거나 치료를 받는 것은 여러분이 그 아름다움을 소중히 여기고 기르며 축하할 수 있도록 열어줍니다.
-
-그렇게 함으로써 우리는 우리의 존재의 무한한 잠재력을 다시 찾아냅니다.**
+그렇게 함으로써 우리는 우리의 존재의 무한한 잠재력을 다시 찾아냅니다.\*\*
