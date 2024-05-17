@@ -20,7 +20,7 @@ cd out
 git clone -b gh-pages https://github.com/milky-road/milky-road.github.io/
 cp -rf milky-road.github.io/.git ./.git
 git config user.name "milky-road"
-git config user.email "13akstjq.blog24@gmail.com"
+git config user.email "13akstjq.blog20@gmail.com"
 rm -rf milky-road.github.io
 
 touch .nojekyll
