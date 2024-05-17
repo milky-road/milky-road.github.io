@@ -11,7 +11,6 @@ import PostList from "@/components/PostList";
 import SectionTitle from "@/components/SectionTitle";
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { SITE_NAME } from "@/lib/constants";
 
 const cx = classnames.bind(style);
 type Props = {
@@ -25,8 +24,8 @@ type Props = {
 
 export const PAGE_SIZE = 10;
 export const PER_PAGE_SIZE = 20;
-export const PAGE_KEY = `__${SITE_NAME}_CURRENT_PAGE__`;
-export const PAGEGROUP_KEY = `__${SITE_NAME}_CURRENT_PAGE_GROUP__`;
+export const PAGE_KEY = "__allround-coder_CURRENT_PAGE__";
+export const PAGEGROUP_KEY = "__allround-coder_CURRENT_PAGE_GROUP__";
 
 export default function Post({
   posts,
@@ -49,17 +48,13 @@ export default function Post({
   useEffect(() => {
     console.log(currentPageGroupS, totalPageGroupCount);
     if (currentPageGroupS + 1 === totalPageGroupCount) {
-      setLastPageGroupS(Math.ceil(totalPageCount) % PER_PAGE_SIZE);
+      setLastPageGroupS(totalPageCount % PER_PAGE_SIZE === 0 ? PER_PAGE_SIZE : totalPageCount % PER_PAGE_SIZE);
     } else {
       setLastPageGroupS(PER_PAGE_SIZE);
     }
   }, [currentPageGroupS]);
 
-  useEffect(() => {
-    // console.log(Math.ceil(totalPageCount) % PER_PAGE_SIZE);
-    // console.log(lastPageGroupS);
-  }, [lastPageGroupS]);
-
+  useEffect(() => {}, [lastPageGroupS]);
   return (
     <>
       {router.isFallback ? (
@@ -86,15 +81,16 @@ export default function Post({
                     &lt;
                   </button>
                 )}
-
                 {Array.from({ length: lastPageGroupS }, (_, i) => {
+                  const pageNum = PER_PAGE_SIZE * currentPageGroupS + (i + 1);
+
                   return (
                     <Link
                       key={i}
-                      className={cx("link", { "-active": i + 1 === +page })}
+                      className={cx("link", { "-active": pageNum === +page })}
                       href={`/posts/${PER_PAGE_SIZE * currentPageGroupS + (i + 1)}`}
                     >
-                      {PER_PAGE_SIZE * currentPageGroupS + (i + 1)}
+                      {pageNum}
                     </Link>
                   );
                 })}

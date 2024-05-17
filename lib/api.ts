@@ -96,7 +96,7 @@ export async function getPosts({ tag, file = "**", fields = [], count, page }: g
   if (page) {
     const totalPageCount = Math.ceil(posts.length / PAGE_SIZE);
     const totalPageGroupCount = Math.ceil(Math.ceil(posts.length / PAGE_SIZE) / PER_PAGE_SIZE);
-    const currentPageGroup = Math.floor(+page / PER_PAGE_SIZE);
+    const currentPageGroup = Math.floor((+page - 1) / PER_PAGE_SIZE);
     let lastPageGroup;
     const num = Math.floor(Math.ceil(posts.length / PAGE_SIZE) / PER_PAGE_SIZE);
     if (currentPageGroup === num) {
