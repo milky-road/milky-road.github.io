@@ -51,7 +51,7 @@ posts는 사라지지 않는다는 걸 아셨나요? 제가 깨어나서 놀랐�
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-MyStoryWentViral2MonthsAfterPosting_4.png)
 
 ## 수입
@@ -59,7 +59,7 @@ posts는 사라지지 않는다는 걸 아셨나요? 제가 깨어나서 놀랐�
 오늘을 기준으로, 해당 이야기의 누적 통계입니다:
 
 ![Image](/assets/img/2024-05-16-MyStoryWentViral2MonthsAfterPosting_5.png)
-```
+
 
 <div class="content-ad"></div>
 

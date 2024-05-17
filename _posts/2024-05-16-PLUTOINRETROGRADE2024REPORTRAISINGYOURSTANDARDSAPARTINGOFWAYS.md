@@ -11,7 +11,7 @@ link: "https://medium.com/@cosmicroadsmail/pluto-in-retrograde-2024-report-raisi
 ---
 
 
-```
+
 ![Pluto in Retrograde Report](/assets/img/2024-05-16-PLUTOINRETROGRADE2024REPORTRAISINGYOURSTANDARDSAPARTINGOFWAYS_0.png)
 
 This report is transcribed audio from a live collective reading on May 5, 2024 on the ClubHouse app (Remembering Sol!) by Natou Ma’at
@@ -19,7 +19,7 @@ This report is transcribed audio from a live collective reading on May 5, 2024 o
 “Today’s reading is going to be a collective Pluto in Retrograde report. Now Pluto has gone into retrograde- starting May 2nd, and it will be lasting through October 11th of this year, if I’m not mistaken. Some of the energies that I’m picking up so far are just a change in how people see themselves and how they perceive the social/relational dynamics they are in, as well as how they are able to move forward from said dynamics that could deem to be difficult. There could be elements of guilt that could attempt to creep in or the inclination to people-please so that you don’t become the ‘bad guy’. I think if your wellness, your peace- your inner balance are being affected by certain situations, people, places, things, then this is the time to step up and either cut the cord or establish those lines-create those boundaries and really stand on business.
 
 So, we’re going to see what’s coming up for the collective at this time. We’re going to start out with the ‘Star Seed Oracle’ deck.
-```
+
 
 <div class="content-ad"></div>
 

@@ -31,7 +31,7 @@ link: "https://medium.com/@eyeofheaven/spiritual-mechanics-how-god-governs-and-h
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-SpiritualMechanicsHowGodGovernsandHumansSelf-GoverninMysticalTraditions_1.png)
 
 Let's take a look at how this concept functions based on the original topics discussed in our first post:
@@ -39,7 +39,7 @@ Let's take a look at how this concept functions based on the original topics dis
 ## 1. Platonism and Neoplatonism
 
 In Platonism, the spiritual realm is intricately connected to the World of Forms, where the fundamental realities or archetypes of everything exist. Plato suggested that the physical world is a mere reflection of this higher, more flawless realm. In Platonism, God, also known as the "Form of the Good," is the supreme force governing the cosmos. The Good serves as the origin of all harmony and understanding in the universe, similar to how divine governance is interpreted in various mystical traditions.
-```
+
 
 <div class="content-ad"></div>
 

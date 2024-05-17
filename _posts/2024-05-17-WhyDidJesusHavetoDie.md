@@ -11,9 +11,9 @@ link: "https://medium.com/backyard-theology/why-did-jesus-have-to-die-5b5929e77a
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-WhyDidJesusHavetoDie_0.png)
-```
+
 
 교회에서 자랐을 때 나의 영적 선배들은 언제나 예수님이 사해주기 위해 죽어야 했다고 말씀하셨어.
 
