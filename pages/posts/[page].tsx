@@ -11,6 +11,7 @@ import PostList from "@/components/PostList";
 import SectionTitle from "@/components/SectionTitle";
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import { SITE_NAME } from "@/lib/constants";
 
 const cx = classnames.bind(style);
 type Props = {
@@ -24,8 +25,8 @@ type Props = {
 
 export const PAGE_SIZE = 10;
 export const PER_PAGE_SIZE = 20;
-export const PAGE_KEY = "__allround-coder_CURRENT_PAGE__";
-export const PAGEGROUP_KEY = "__allround-coder_CURRENT_PAGE_GROUP__";
+export const PAGE_KEY = `__${SITE_NAME}_CURRENT_PAGE__`;
+export const PAGEGROUP_KEY = `__${SITE_NAME}_CURRENT_PAGE_GROUP__`;
 
 export default function Post({
   posts,
