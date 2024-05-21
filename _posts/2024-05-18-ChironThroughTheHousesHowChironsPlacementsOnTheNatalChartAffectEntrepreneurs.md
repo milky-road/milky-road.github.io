@@ -107,7 +107,7 @@ Chiron is an asteroid positioned between Saturn and Uranus, often seen as a 'bri
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Chiron in the 12th House: Vulnerability and Hidden Strengths](/assets/img/2024-05-18-ChironThroughTheHousesHowChironsPlacementsOnTheNatalChartAffectEntrepreneurs_14.png)
 
 ## 12번 하우스에서의 카이론: 취약성과 숨겨진 강점
@@ -115,7 +115,6 @@ Chiron is an asteroid positioned between Saturn and Uranus, often seen as a 'bri
 12번 하우스는 잠재의식, 숨겨진 강점, 그리고 약점의 영역입니다. 이 하우스에서 카이론을 가진 기업가들은 자신의 취약성을 드러내는 것을 두려워할 수 있습니다. 그러나 치유로 가는 길은 이러한 취약성을 받아들이고, 각 부결이나 실패가 패배가 아니라 성공으로 이끄는 교훈이라는 것을 이해하는 데 있습니다.
 
 ![Chiron in the 12th House: Vulnerability and Hidden Strengths](/assets/img/2024-05-18-ChironThroughTheHousesHowChironsPlacementsOnTheNatalChartAffectEntrepreneurs_15.png)
-```
 
 <div class="content-ad"></div>
 
