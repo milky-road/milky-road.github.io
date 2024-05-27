@@ -3,7 +3,7 @@ title: "인생은 재정 목표에 관한 것이 아니라 삶의 목표를 위�
 description: ""
 coverImage: "/assets/img/2024-05-27-LifeIsntAboutFinancialGoalsItsAboutFinancialSupportforLifeGoals_0.png"
 date: 2024-05-27 21:27
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-LifeIsntAboutFinancialGoalsItsAboutFinancialSupportforLifeGoals_0.png
 tag: Tech
 originalTitle: "Life Isn’t About Financial Goals: It’s About Financial Support for Life Goals"
@@ -11,9 +11,8 @@ link: "https://medium.com/@me_22225/life-isnt-about-financial-goals-it-s-about-f
 ---
 
 
-```markdown
 ![image](/assets/img/2024-05-27-LifeIsntAboutFinancialGoalsItsAboutFinancialSupportforLifeGoals_0.png)
-```
+
 
 지금 세상에서 재정적 성공을 쟁취하는 데 치여들기 쉬운 시대입니다. 저축 방법, 투자 전략, 재산 형성에 대한 조언으로 가득찬데요. 재정 면에서 신중한 태도는 중요하지만 삶은 재정적 목표로 결정되어서는 안 된다는 것을 명심하는 것이 중요합니다. 대신 투자 계획은 당신의 삶의 목표를 지원해야 합니다.
 

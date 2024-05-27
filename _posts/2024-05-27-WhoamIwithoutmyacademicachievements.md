@@ -3,15 +3,13 @@ title: "제 학업 성취 없이 제가 누구일까요"
 description: ""
 coverImage: "/assets/img/2024-05-27-WhoamIwithoutmyacademicachievements_0.png"
 date: 2024-05-27 21:24
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-WhoamIwithoutmyacademicachievements_0.png
 tag: Tech
 originalTitle: "Who am I without my academic achievements?"
 link: "https://medium.com/@skeiiidameee/who-am-i-without-my-academic-achievements-288572325f52"
 ---
 
-
-```markdown
 ![Image](/assets/img/2024-05-27-WhoamIwithoutmyacademicachievements_0.png)
 
 사람들은 종종 “학점은 그냥 숫자에 불과하다”고 말합니다. 하지만 나에게는 그게 아니다. 학점은 나를 정의합니다. 이것이 내가 잘하는 유일한 것인데, 나에게는 다른 재능이 없어. 나는 춤을 추거나 노래를 부르지 않고, 그림을 그리거나 그리는 것을 싫어해. 그래서 내 주변 사람들을 자랑스럽게 만들기 위해 뛰어나야 해. 메달을 획득하기 위해 할 수 있는 모든 일을 해야 해. 그렇지 않으면, 이 세상에서 아무것도 가치가 없어. 나는 그저 실패뿐인 존재일 뿐이야.
@@ -19,7 +17,6 @@ link: "https://medium.com/@skeiiidameee/who-am-i-without-my-academic-achievement
 예전에는 ‘재능 있는 아이’였어. 무대를 통해서 말하는 하나의 학생으로, 모두 앞에서 박수를 치며 오류 없는 빛나는 별처럼 칭찬받았어. 나는 학교를 대표하고 트로피를 집에 가지고 오는 멋진 학생이었어. 선생님들의 자부심, 동료들의 감탄, 부모님들의 밝은 미소가 나를 움직이는 동기였어.
 
 하지만 지금은, 시간이 흐르며 도전이 커짐에 따라, 나는 모든 성취의 아래에 누구인지 궁금해져. 박수가 멈추고 메달이 먼지를 쌓을 때, 누가 남을까? 각 시험, 각 대회마다 압박은 쌓여가는데, 마치 내 전체 정체성이 각 학점의 가장자리에 달려 있는 것처럼 느껴져.
-```
 
 <div class="content-ad"></div>
 

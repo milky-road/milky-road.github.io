@@ -3,13 +3,12 @@ title: "혼자 죽는 것 마치 부처와 같이"
 description: ""
 coverImage: "/assets/img/2024-05-27-ToDieAloneLikeABuddha_0.png"
 date: 2024-05-27 21:11
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-ToDieAloneLikeABuddha_0.png
 tag: Tech
 originalTitle: "To Die Alone… Like A Buddha"
 link: "https://medium.com/human-parts/to-die-alone-like-a-buddha-c42f67173b27"
 ---
-
 
 ![2024-05-27-ToDieAloneLikeABuddha_0.png](/assets/img/2024-05-27-ToDieAloneLikeABuddha_0.png)
 
@@ -41,7 +40,7 @@ link: "https://medium.com/human-parts/to-die-alone-like-a-buddha-c42f67173b27"
 
 <div class="content-ad"></div>
 
-그가 두 년 전에 이메일을 보내면서 "나는 내 삶에서 더 흥미로운 순간들에 대해 글을 쓸 수 있을 때 더 좋았다"고 했어. 
+그가 두 년 전에 이메일을 보내면서 "나는 내 삶에서 더 흥미로운 순간들에 대해 글을 쓸 수 있을 때 더 좋았다"고 했어.
 
 나는 그 기억 속으로 여행하는 작은 여행을 항상 즐겼는데, 뇌 포그와 인지 붕괴의 빈도가 높은 기간들이 그런 일을 진전하게 하는 것을 방해하고 있다. 날 끌어모아야겠어.
 
@@ -83,7 +82,6 @@ Feel free to reach out if you have any further questions or would like a persona
 
 <div class="content-ad"></div>
 
-```markdown
 ![Alt text](/assets/img/2024-05-27-ToDieAloneLikeABuddha_2.png)
 
 Peter’s life peaked when he lived in a hilltop town in Tuscany. Montecastello, through the word alone, pleasure purrs through my body – my cells come from him after all. At dawn he was making art, by dusk, making love. Siestas and cicadas, sitting under the stars, feasting on succulent lamb chops fizzling in golden olive oil, empty bottles of deep maroon wine, through which he could taste the soil, and the soul of his most beloved place.
@@ -91,13 +89,12 @@ Peter’s life peaked when he lived in a hilltop town in Tuscany. Montecastello,
 In Montecastello, Peter knew heaven on earth, and surely that is all there is to live for.
 
 People in white coats have been attempting to spoon-feed Peter for days, dreadful stuff, food he wouldn’t touch even if he wasn’t desperate to die.
-```
 
 <div class="content-ad"></div>
 
 테니스 공이 사라지면서 피터도 사라져갔습니다. 그의 쇠약해진 몸은 병원 침대에서 요양원으로 옮겨졌습니다. 뼈가 부러지고 카테터가 터지며, 악의적인 시련을 지켜볼 뿐이었습니다.
 
-몇 달 전에, 아무런 영향도 받지 않고 무관심한 상태로, 피터는 자신의 돌아가신 삶으로부터 발견한 논리적인 결론들이었습니다. "더 이상 살고 싶지 않아요," 피터는 간병인들에게 말했습니다. 
+몇 달 전에, 아무런 영향도 받지 않고 무관심한 상태로, 피터는 자신의 돌아가신 삶으로부터 발견한 논리적인 결론들이었습니다. "더 이상 살고 싶지 않아요," 피터는 간병인들에게 말했습니다.
 
 그래서 그들은 피터에게 항우울제를 주입하고, 그를 그의 외로운 삶으로 되돌려보냈습니다. 그 후에 우리는 전화로 대화를 나누었고, 함께 웃었습니다. 인간의 삶을 연장하기 위한 절망과 의무, 비록 그 인간이 더 이상 그 삶을 원하지 않아도요.
 
@@ -145,7 +142,6 @@ People in white coats have been attempting to spoon-feed Peter for days, dreadfu
 
 <div class="content-ad"></div>
 
-```markdown
 ![To Die Alone Like A Buddha](/assets/img/2024-05-27-ToDieAloneLikeABuddha_5.png)
 
 I fall flat in the snow as I get the call. My foot slides, I thump to the ground, my soul rattles in the aliveness of my body, as Peter finally dissolves; a single snowflake sauntering into the river.
@@ -153,7 +149,6 @@ I fall flat in the snow as I get the call. My foot slides, I thump to the ground
 The inevitable, my mother says. It is the first time tears have gushed down my father’s face since he was a boy. He weeps, he sobs.
 
 As does my mother as she describes it; it’s the first time I’ve seen your father cry, she says. My brother’s crying too, and I’m on the phone talking about starlings and no one gets it like Peter would have.
-```
 
 <div class="content-ad"></div>
 
